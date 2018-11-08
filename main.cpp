@@ -1,5 +1,5 @@
 /*
- * created by Danil Kireev, PFUR NFI-201, 25.10.18, 09:00
+ * created by Danil Kireev, PFUR NFI-201, 8.11.18, 09:00
  */
 #include <cmath>
 #include "arr.h"
