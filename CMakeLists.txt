@@ -3,4 +3,4 @@ project(aad_3_lab13_1)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(aad_3_lab13_1 main.cpp)
+add_executable(aad_3_lab13_1 main.cpp arr.cpp arr.h)
